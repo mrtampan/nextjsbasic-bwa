@@ -1,3 +1,7 @@
+## Thank Pak Prawito udah ngajarin saya nextjs
+
+https://buildwithangga.com/kelas/nextjs-basic#izpQF675F-g
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
